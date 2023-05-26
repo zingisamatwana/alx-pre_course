@@ -1,1 +1,1 @@
-My first readme
+Only time allowed to update and commit from GitHub interface
